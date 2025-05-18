@@ -1,0 +1,25 @@
+# Игнорировать файлы моделей и данных
+*.pkl
+*.csv
+
+# Виртуальные окружения
+venv/
+.venv/
+env/
+.env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Директории дистрибутива
+dist/
+build/
+*.egg-info/
+
+# Кэши IDE
+.idea/
+.vscode/
+*.swp
+*.swo 
